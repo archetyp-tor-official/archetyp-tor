@@ -56,4 +56,6 @@ If you're ready to explore Archetyp: Market, and utilize **Archetyp Tor**, here 
 
 This guide is intended solely for educational purposes. The information provided is meant to increase awareness and understanding of the darknet. We neither endorse nor promote any illegal activities. Always comply with local laws and regulations when exploring the internet. Stay safe and informed, and remember the critical role of **Archetyp Tor** in maintaining your anonymity.
 
-Update:  04.08.2025
+
+
+Update:  13.08.2025 Link is now operational and clickable
