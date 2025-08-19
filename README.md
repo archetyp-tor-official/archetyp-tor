@@ -58,4 +58,6 @@ This guide is intended solely for educational purposes. The information provided
 
 
 
-Update:  13.08.2025 Link is now operational and clickable
+
+
+Update:  19.08.2025 url is live and functioning
