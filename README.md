@@ -62,4 +62,6 @@ This guide is intended solely for educational purposes. The information provided
 
 
 
-Update:  Saturday 23 August 2025 The link is now reachable, thanks for the fix!
+
+
+Update:  12 September TOR URL corrections
