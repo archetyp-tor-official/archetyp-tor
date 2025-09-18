@@ -64,4 +64,6 @@ This guide is intended solely for educational purposes. The information provided
 
 
 
-Update:  12 September TOR URL corrections
+
+
+Update:  18.09.2025 Just to let you know, the link is active again.
